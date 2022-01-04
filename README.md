@@ -44,3 +44,9 @@ Here's the pipeline
 ## Results
 ### DataPane
 https://datapane.com/u/airaghidavide/reports/M7bQbw3/twitter-profile-report-matteo-salvini/
+
+![tables_tweets](https://user-images.githubusercontent.com/60407477/148048938-0aca5155-5a5d-41b7-b00f-3e1f101c88fd.PNG)
+![engagemnt](https://user-images.githubusercontent.com/60407477/148048971-dc25510b-7ba8-4efd-8719-b1f970d8de56.PNG)
+![heatmap](https://user-images.githubusercontent.com/60407477/148048913-697d501a-5fc9-4b75-a450-30d892928cbd.PNG)
+
+
